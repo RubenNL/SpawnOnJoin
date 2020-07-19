@@ -1,0 +1,4 @@
+name: SpawnOnJoin
+version: ${project.version}
+main: nl.rubend.spawnonjoin.spawnonjoin.SpawnOnJoin
+api-version: 1.15
